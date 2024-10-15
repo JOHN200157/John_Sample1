@@ -1,0 +1,26 @@
+KT - 15th Oct - Softwares~Git
+--------------------------------
+- notepad++ : json -> string -> json , comparing
+- Vscode : 
+- MobaXterm
+- Ubuntu -> 1. wsl 2. ubuntu
+- Git Extension
+- Postman
+
+2 
+1. CLI
+git add .
+git commit -am ''
+git pull origin main
+git push origin main
+git checkout -b ''
+
+
+main + copy - local
+main + copy - repo
+
+2. GUI - Git Extension
+
+
+1. git account (github)
+2. create repo , clone it to local system, create test.txt, push the changes to the repo
